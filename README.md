@@ -13,3 +13,6 @@
 
    2.3 Dataset
 
+3. Negative Binomial Distribution Simulation
+
+   3.1 Number of failurs VS Probability
